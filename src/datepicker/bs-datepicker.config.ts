@@ -82,4 +82,9 @@ export class BsDatepickerConfig implements DatepickerRenderOptions {
   monthLabel = 'MMMM';
   yearLabel = 'YYYY';
   weekNumbers = 'w';
+
+  /**
+   * Set allowed positions of container.
+   */
+  allowedPositions = ['top', 'bottom'];
 }
