@@ -1,5 +1,5 @@
 {
-  "name": "ngx-bootstrap-base",
+  "name": "ngx-bootstrap",
   "version": "4.3.1",
   "description": "Native Angular Bootstrap Components",
   "private": true,
@@ -57,7 +57,7 @@
       "pre-push": "npm run lint-src"
     }
   },
-  "main": "bundles/ngx-bootstrap.umd.js",
+  "main": "dist/bundles/ngx-bootstrap.umd.js",
   "module": "esm5/ngx-bootstrap.js",
   "typings": "ngx-bootstrap.d.ts",
   "keywords": [

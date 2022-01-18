@@ -1,5 +1,5 @@
 {
-  "main": "bundles/ngx-bootstrap.umd.js",
+  "main": "dist/bundles/ngx-bootstrap.umd.js",
   "version": "4.3.1",
   "description": "Native Angular Bootstrap Components",
   "module": "esm5/ngx-bootstrap.js",
